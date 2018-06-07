@@ -1,6 +1,7 @@
 # Summer Research Plan
 
-# Schedule of the Meeting (for 200 entries)    
+## Meeting Schedule
+
 * [](#id-section1). 
 * [](#id-section2). 
 * [  ](#id-section3).
