@@ -11,19 +11,21 @@ This repository is aimed to organize and coordinate projects among different ins
 
 * Dr. Jeffrey Feder's lab
 
-[website]()
+[website](https://federlab.nd.edu/)
 
-Dr. Jim Smith's lab
+* Dr. Jim Smith's lab
 
-[website]()
+[website](https://msu.edu/user/jimsmith/)
 
 * Dr. Greg Ragland's lab
 
-[website]()
+[website](https://seasonaladaptation.org/)
 
 
-* Dr. Shannon Olsson's lab .  
+* Dr. Shannon Olsson's lab
 
-[website]()
+[website](https://nice.ncbs.res.in/)
 
+* Dr. Daniel Hahn's lab
 
+[website](http://entnemdept.ufl.edu/people-directory/daniel-hahn/)
