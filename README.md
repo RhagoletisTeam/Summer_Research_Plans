@@ -7,6 +7,10 @@
 
 This repository is aimed to organize and coordinate projects among different institutions that study Rhagoletis. 
 
+### Broad interests:
+
+As a research team, we are interested in the diversity of life history strategies at the genetic, physiological, and phylogenetic level that lead to divergence in seasonal timing within the Rhagoletis study system. 
+
 ### Research Groups:
 
 * Dr. Jeffrey Feder's lab
@@ -29,3 +33,9 @@ This repository is aimed to organize and coordinate projects among different ins
 * Dr. Daniel Hahn's lab
 
 [website](http://entnemdept.ufl.edu/people-directory/daniel-hahn/)
+
+* Dr. Scott Egan's lab
+
+* Dr. Tom Powell's lab
+
+* Dr. Glen Hood's lab
