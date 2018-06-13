@@ -72,6 +72,13 @@ Preliminary Adult emergence patterns between host races, for each organism and e
 
 ![](https://user-images.githubusercontent.com/4654474/41360151-0ae1a9c6-6efa-11e8-8358-1e0d16d74742.png)
 
+Note that the apple wasps sample sizes are low and the sample sizes in simulated overwintering is low. 
+
+**Take Home**: It looks like wasps are synchronizing their adult emergence patterns based on temperature such that they emerge earlier under favorable(RT) conditions and emerge later under unfavorable conditions (SO). 
+
+Here's another plot to get a sense of what the distributions actually look like with a violin plot:
+
+![](https://user-images.githubusercontent.com/4654474/41360428-c1dae8c2-6efa-11e8-8276-e07a5c24ed70.png)
 
 All of the work can be accessed [here](https://github.com/adnguyen/Circadian_rhythm_runs_seasonal_timing).
 
