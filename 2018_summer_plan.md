@@ -2,7 +2,7 @@
 
 ## Meeting Schedule
 
-* [](#id-section1). 
+* [Hahn lab summer research plan](#id-section1). Collect apple and hawthorn fruit in Grant and Lansing
 * [](#id-section2). 
 * [  ](#id-section3).
 * [](#id-section4).
@@ -29,7 +29,9 @@
 
 <div id='id-section1'/>    
     
-### 
+### Hahn lab summer research plan. Collect apple and hawthorn fruit in Grant and Lansing
+
+
 
 
 
