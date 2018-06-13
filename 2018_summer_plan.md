@@ -63,11 +63,14 @@ Here is a summary table of the eclosion patterns for each host, organism, condit
 |Apple |fly      |SO        |    243|
 |Apple |wasp     |RT        |      4|
 |Apple |wasp     |SO        |      7|
-|Haw   |fly      |          |      1|
 |Haw   |fly      |RT        |     34|
 |Haw   |fly      |SO        |     80|
 |Haw   |wasp     |RT        |     20|
 |Haw   |wasp     |SO        |      6|
+
+Preliminary Adult emergence patterns between host races, for each organism and each treatment condition. 
+
+![](https://user-images.githubusercontent.com/4654474/41360151-0ae1a9c6-6efa-11e8-8358-1e0d16d74742.png)
 
 
 All of the work can be accessed [here](https://github.com/adnguyen/Circadian_rhythm_runs_seasonal_timing).
