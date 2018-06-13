@@ -80,6 +80,19 @@ Here's another plot to get a sense of what the distributions actually look like 
 
 ![](https://user-images.githubusercontent.com/4654474/41360428-c1dae8c2-6efa-11e8-8276-e07a5c24ed70.png)
 
+**RT is more bimodal than SO, consistent with Dr. Feder's previous work**. 
+
+OK, once the adults emerged, we measured their biological rhythms under entrainment(16L:8D to get them rhythmic) and free run (complete darkness = endogenous rhythm):
+
+![](https://user-images.githubusercontent.com/4654474/41360601-24371180-6efb-11e8-9743-08174934b3f3.jpg)
+
+These are time series data with activity counts vs days. We analyzed these data with a spectral density analysis which identifies the dominant rhythms. 
+
+Under RT in Haw, we identified divergence in rhythms under free run conditions:
+
+![](https://user-images.githubusercontent.com/4654474/41360649-443319ac-6efb-11e8-8787-be43354733d2.jpg)
+
+
 All of the work can be accessed [here](https://github.com/adnguyen/Circadian_rhythm_runs_seasonal_timing).
 
 **Future Plans**
