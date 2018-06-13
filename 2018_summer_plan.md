@@ -95,9 +95,32 @@ Under RT in Haw, we identified divergence in rhythms under free run conditions:
 
 All of the work can be accessed [here](https://github.com/adnguyen/Circadian_rhythm_runs_seasonal_timing).
 
+**Additional preliminary analyses**
+
+* We tested whether MR was related to adult emergence and we found pupae with low MR can eclose over the whole range from early to late. Ones with high MR tended to eclose earlier. This is at day 15.
+
+(data are a bit old, but the pattern still remains)
+
+![](https://user-images.githubusercontent.com/4654474/41361032-0cb4fd96-6efc-11e8-9bde-462359d48b8b.png)
+
+* We tested whether there were any costs in terms of adult viability associated with pre-winter MR. 
+    * With a negative binomial regression, we found those with high MR had lower lifespans under SO, but no difference under RT. 
+    * with a survival analysis using a cox regression, we found that those with high MR also had a higher death rate under SO, but not under RT. 
+    
+**No diff in life span vs host races under RT**
+![](https://user-images.githubusercontent.com/4654474/41361544-49466e60-6efd-11e8-8b67-155b6a00c572.png)
+
+**Main effect of host and MR on lifespan** . 
+![](https://user-images.githubusercontent.com/4654474/41361613-7b1f7562-6efd-11e8-9f0d-c88b0a5ced78.png)
+
+**No diff in life span vs host races under RT**
+
+
 **Future Plans**
 
+In the future, we'd like to take expand on this project by:
 
+1. Dissecting out further the relationship between host and parasitoids. This would involve 
 
 ------
 
