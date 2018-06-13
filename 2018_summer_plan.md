@@ -120,7 +120,19 @@ All of the work can be accessed [here](https://github.com/adnguyen/Circadian_rhy
 
 In the future, we'd like to take expand on this project by:
 
-1. Dissecting out further the relationship between host and parasitoids. This would involve 
+1. Dissecting out further the relationship between host and parasitoids.
+    * This would involve more heavily sampling haws (as they have better infection frequency).
+        * Grant and Lansing sites
+    * Glen Hood suggests we need to sample later, such as fruit on the ground if we want more parasitoids. 
+
+2. Increasing sample size to determine differences between host races in biological rhythms. 
+    * Collect Grant and Lansing Sites
+
+
+Proposed Collection numbers 
+
+* Apple = ~1000 larvae
+* Haw = ~ 2000 larvae 
 
 ------
 
