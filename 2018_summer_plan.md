@@ -1,6 +1,6 @@
 # Summer Research Plan
 
-## Meeting Schedule
+## Lab Group
 
 * [Hahn lab summer research plan](#id-section1). Collect apple and hawthorn fruit in Grant and Lansing
 * [](#id-section2). 
@@ -23,7 +23,7 @@
 * [](#id-section19).
 
 
-# Meeting notes
+# Research Plans
 
 ------
 
