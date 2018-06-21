@@ -138,7 +138,32 @@ Proposed Collection numbers
 
 <div id='id-section2'/>    
     
-###      
+###  2018-06-19 Meeting notes
+
+**Coordinate Collection**
+|Site  |Lab		 |
+|----- |------- |
+|Urbana|Powell/Giers  |
+|MSU   |Ragland  	  |
+|Ferris|Hahn/Olsson   |
+|OG	   |Hahn/Olsson   |
+
+Ferris and OG are Grant sites. 
+MSU and Milford are Lansing sites. 
+
+
+**Parasitoid preservation for Hood lab**
+* For hydrocarbon work
+* Need sexually mature (7-10 days post eclosion) adult flies preserved (preferably still alive)
+* If possible, preserve in something other than plastic microcentrifuge tube in -80
+* Keep males and females apart 
+
+**Ideas**
+* Archive freezer contents of each lab on Github for inter-lab access
+* How to maximize parisitoids?
+	* Collect later in the season
+	* Collect from the ground
+* Help collect olive flies, in NATL on UF campus (*Chionanthus virginicus*)
 
 ------
 
